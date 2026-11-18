@@ -71,7 +71,16 @@
     "https://slickdeals.net/f/20318904-169-99-sony-interactive-entertainment-dualsense-edge-wireless-controller-for-ps5-pc-mac-mobile-midnight-black-white-at-bestbuy?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1794941720,
     "https://slickdeals.net/f/20316897-4-piece-comfort-spaces-coolmax-moisture-wicking-cooling-sheet-set-queen-white-11-09-king-from-10-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1794941720,
     "https://education.github.com/experiences/intro_to_copilot": 1794941720,
-    "https://education.github.com/experiences/intro_to_github": 1794941720
+    "https://education.github.com/experiences/intro_to_github": 1794941720,
+    "https://www.ozbargain.com.au/node/983966": 1794989344,
+    "https://www.ozbargain.com.au/node/983964": 1794989344,
+    "https://www.ozbargain.com.au/node/983963": 1794989344,
+    "https://www.ozbargain.com.au/node/983953": 1794989344,
+    "https://www.ozbargain.com.au/node/983865": 1794989344,
+    "https://www.ozbargain.com.au/node/983849": 1794989344,
+    "https://slickdeals.net/f/20323800-costco-members-5-count-puma-men-s-boxer-briefs-13-99-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1794989344,
+    "https://slickdeals.net/f/20325366-219-99-amazon-alexa-tablet-11-all-new-8gb-ram-64gb-11-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1794989344,
+    "https://slickdeals.net/f/20324205-cert-refurb-dyson-v8-origin-cordless-vacuum-cleaner-red-black-152-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1794989344
   },
   "messages": [
     {
@@ -121,6 +130,14 @@
     {
       "message_id": 76,
       "sent_at": 1794941720
+    },
+    {
+      "message_id": 77,
+      "sent_at": 1794989344
+    },
+    {
+      "message_id": 78,
+      "sent_at": 1794989344
     }
   ]
 }
