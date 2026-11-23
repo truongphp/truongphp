@@ -188,17 +188,18 @@
     "https://www.giveawayoftheday.com/allavsoft-8/": 1795368830,
     "https://slickdeals.net/f/20360067-cricket-wireless-iphone-17e-new-280-with-3-month-plan?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795368830,
     "https://slickdeals.net/f/20339634-dji-osmo-action-4-standard-combo-waterproof-action-camera-vlogging-camera-w-1-1-3-sensor-4k-120fps-video-179?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795368830,
-    "https://slickdeals.net/f/20366997-casio-mdv-106-44mm-diver-inspired-sports-analog-watch-w-black-resin-band-gold-57-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795368830
+    "https://slickdeals.net/f/20366997-casio-mdv-106-44mm-diver-inspired-sports-analog-watch-w-black-resin-band-gold-57-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795368830,
+    "https://www.thegioididong.com/tin-tuc/quet-vnpay-qr-thanh-toan-the-tin-dung-1603516": 1795422635,
+    "https://www.ozbargain.com.au/node/985048": 1795422635,
+    "https://www.ozbargain.com.au/node/985047": 1795422635,
+    "https://www.ozbargain.com.au/node/985046": 1795422635,
+    "https://www.ozbargain.com.au/node/984960": 1795422635,
+    "https://www.ozbargain.com.au/node/984956": 1795422635,
+    "https://slickdeals.net/f/20373120-gears-of-war-reloaded-ps5-xbox-steam-9-99?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795422635,
+    "https://slickdeals.net/f/20374314-assassin-s-creed-shadows-ps5-15-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795422635,
+    "https://slickdeals.net/f/20374608-15-sonic-x-shadow-generations-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795422635
   },
   "messages": [
-    {
-      "message_id": 92,
-      "sent_at": 1795247744
-    },
-    {
-      "message_id": 93,
-      "sent_at": 1795247744
-    },
     {
       "message_id": 94,
       "sent_at": 1795280599
@@ -226,6 +227,14 @@
     {
       "message_id": 100,
       "sent_at": 1795368830
+    },
+    {
+      "message_id": 101,
+      "sent_at": 1795422635
+    },
+    {
+      "message_id": 102,
+      "sent_at": 1795422635
     }
   ]
 }
