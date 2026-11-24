@@ -204,17 +204,19 @@
     "https://www.giveawayoftheday.com/aiarty-image-matting-2-7/": 1795470724,
     "https://slickdeals.net/f/20331531-costway-5-3-quart-1700w-electric-deep-fryer-w-triple-basket-silver-46-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795470724,
     "https://slickdeals.net/f/20338332-google-pixel-watch-5-smartwatches-various-sizes-colors-frpm-300-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795470724,
-    "https://slickdeals.net/f/20367255-ua-charged-assert-10-men-s-running-shoes-various-31-84-fs?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795470724
+    "https://slickdeals.net/f/20367255-ua-charged-assert-10-men-s-running-shoes-various-31-84-fs?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795470724,
+    "https://www.ozbargain.com.au/node/985236": 1795516656,
+    "https://www.ozbargain.com.au/node/985235": 1795516656,
+    "https://www.ozbargain.com.au/node/985219": 1795516656,
+    "https://www.giveawayoftheday.com/tipard-dvd-creator-5-3-32/": 1795516656,
+    "https://www.ozbargain.com.au/node/985259": 1795516656,
+    "https://www.ozbargain.com.au/node/985255": 1795516656,
+    "https://www.ozbargain.com.au/node/985252": 1795516656,
+    "https://slickdeals.net/f/20382213-20v-porter-cable-3-diameter-brushless-cut-off-tool-bare-tool-41-99-free-store-pick-up-or-free-delivery-on-79?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795516656,
+    "https://slickdeals.net/f/20376540-the-polar-express-4k-ultra-hd-blu-ray-9-99-walmart-com?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795516656,
+    "https://slickdeals.net/f/20378328-fandango-black-friday-offer-40-off-1-yr-fandango-fanclub-annual-membership-59-40-valid-thru-11-28?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795516656
   },
   "messages": [
-    {
-      "message_id": 97,
-      "sent_at": 1795333279
-    },
-    {
-      "message_id": 98,
-      "sent_at": 1795333279
-    },
     {
       "message_id": 99,
       "sent_at": 1795368830
@@ -238,6 +240,14 @@
     {
       "message_id": 104,
       "sent_at": 1795470724
+    },
+    {
+      "message_id": 105,
+      "sent_at": 1795516656
+    },
+    {
+      "message_id": 106,
+      "sent_at": 1795516656
     }
   ]
 }
