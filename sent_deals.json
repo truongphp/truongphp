@@ -214,25 +214,22 @@
     "https://www.ozbargain.com.au/node/985252": 1795516656,
     "https://slickdeals.net/f/20382213-20v-porter-cable-3-diameter-brushless-cut-off-tool-bare-tool-41-99-free-store-pick-up-or-free-delivery-on-79?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795516656,
     "https://slickdeals.net/f/20376540-the-polar-express-4k-ultra-hd-blu-ray-9-99-walmart-com?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795516656,
-    "https://slickdeals.net/f/20378328-fandango-black-friday-offer-40-off-1-yr-fandango-fanclub-annual-membership-59-40-valid-thru-11-28?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795516656
+    "https://slickdeals.net/f/20378328-fandango-black-friday-offer-40-off-1-yr-fandango-fanclub-annual-membership-59-40-valid-thru-11-28?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795516656,
+    "https://sharewareonsale.com/s/zombie-war-last-signal": 1795598862,
+    "https://sharewareonsale.com/s/onion-watchface-x-mas-2024": 1795598862,
+    "https://sharewareonsale.com/s/ml2u-163-watch-face": 1795598862,
+    "https://www.ozbargain.com.au/node/985490": 1795598862,
+    "https://www.ozbargain.com.au/node/985489": 1795598862,
+    "https://www.ozbargain.com.au/node/985486": 1795598862,
+    "https://www.giveawayoftheday.com/batch-image-resizer-2/": 1795598862,
+    "https://www.ozbargain.com.au/node/985481": 1795598862,
+    "https://www.ozbargain.com.au/node/985461": 1795598862,
+    "https://www.ozbargain.com.au/node/985453": 1795598862,
+    "https://slickdeals.net/f/20392983-costco-members-128gb-8-5-apple-ipad-mini-wi-fi-tablet-w-a20-pro-1-year-applecare-included-599-99?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795598862,
+    "https://slickdeals.net/f/20388675-27-alienware-aw2725qf-4k-dual-resolution-ips-gaming-monitor-279-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795598862,
+    "https://slickdeals.net/f/20386962-sony-playstation-dualsense-wireless-controller-007-first-light-limited-edition-64-99?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795598862
   },
   "messages": [
-    {
-      "message_id": 99,
-      "sent_at": 1795368830
-    },
-    {
-      "message_id": 100,
-      "sent_at": 1795368830
-    },
-    {
-      "message_id": 101,
-      "sent_at": 1795422635
-    },
-    {
-      "message_id": 102,
-      "sent_at": 1795422635
-    },
     {
       "message_id": 103,
       "sent_at": 1795470724
@@ -248,6 +245,14 @@
     {
       "message_id": 106,
       "sent_at": 1795516656
+    },
+    {
+      "message_id": 107,
+      "sent_at": 1795598862
+    },
+    {
+      "message_id": 108,
+      "sent_at": 1795598862
     }
   ]
 }
