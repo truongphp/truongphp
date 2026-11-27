@@ -262,17 +262,22 @@
     "https://slickdeals.net/f/20339532-ecovacs-deebot-t90-pro-omni-robot-vacuum-mop-w-self-emptying-self-washing-roller-499-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795721035,
     "https://slickdeals.net/f/20310687-gooloo-ds100-full-system-obd2-bluetooth-scanner-10-free-shipping-w-walmart-or-orders-35?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795721035,
     "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b": 1795721035,
-    "https://store.epicgames.com/en-US/p/bread-and-fred-1db362": 1795721035
+    "https://store.epicgames.com/en-US/p/bread-and-fred-1db362": 1795721035,
+    "https://aeonmall-haiphong-lechan.com.vn/khuyen-mai/nguoi-ban-nho-cai-om-vua-xinh-%f0%9f%a6%95%f0%9f%92%9b/": 1795771363,
+    "https://aeonmall-haiphong-lechan.com.vn/khuyen-mai/%f0%9f%96%a4%f0%9f%94%a5-black-friday-mua-1-tang-1-vui-choi-tha-ga-%f0%9f%8e%89/": 1795771363,
+    "https://aeonmall-haiphong-lechan.com.vn/khuyen-mai/black-friday-thoa-suc-mua-sam-cung-loat-khuyen-mai-co-han/": 1795771363,
+    "https://aeonmall-haiphong-lechan.com.vn/khuyen-mai/calvin-klein-black-friday-sale-up-to-80-extra-10-off/": 1795771363,
+    "https://www.ozbargain.com.au/node/986114": 1795771363,
+    "https://www.ozbargain.com.au/node/986111": 1795771363,
+    "https://www.ozbargain.com.au/node/986107": 1795771363,
+    "https://www.ozbargain.com.au/node/986098": 1795771363,
+    "https://www.ozbargain.com.au/node/986015": 1795771363,
+    "https://www.ozbargain.com.au/node/986013": 1795771363,
+    "https://slickdeals.net/f/20411691-3-pack-3-oz-old-spice-men-s-high-endurance-aluminum-free-deodorant-refresh-6-91-2-30-each-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795771363,
+    "https://slickdeals.net/f/20408664-auroth-tactical-no-pull-dog-harness-w-molle-system-large-desert-camo-10-14-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795771363,
+    "https://slickdeals.net/f/20407299-werner-6-type-ia-300-lb-fiberglass-step-ladder-79-88-free-store-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2": 1795771363
   },
   "messages": [
-    {
-      "message_id": 107,
-      "sent_at": 1795598862
-    },
-    {
-      "message_id": 108,
-      "sent_at": 1795598862
-    },
     {
       "message_id": 109,
       "sent_at": 1795635794
@@ -300,6 +305,18 @@
     {
       "message_id": 115,
       "sent_at": 1795721035
+    },
+    {
+      "message_id": 116,
+      "sent_at": 1795771363
+    },
+    {
+      "message_id": 117,
+      "sent_at": 1795771363
+    },
+    {
+      "message_id": 118,
+      "sent_at": 1795771363
     }
   ]
 }
